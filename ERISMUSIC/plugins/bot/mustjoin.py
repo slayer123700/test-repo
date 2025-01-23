@@ -6,7 +6,7 @@ from ERISMUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "itachi007ff"
+MUST_JOIN = "MAHABHARAT_SUPPORT"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
