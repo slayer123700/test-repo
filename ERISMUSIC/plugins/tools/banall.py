@@ -1,4 +1,4 @@
-/eval import asyncio  
+import asyncio  
 from time import time  
 import os  
 import sys  
