@@ -1,5 +1,5 @@
 {
-    "name": "𝙿𝚁𝙸𝙽𝙲𝙴 𝙼𝚄𝚂𝙸𝙲",
+    "name": "Suzune Music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/b61227af05544deb76a34.jpg",
     "keywords": [
@@ -14,22 +14,22 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "29308061",
+        "value": "22317880",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "462de3dfc98fd938ef9c6ee31a72d099",
+        "value": "5e341628f7176989bcffb2b8fc22445f",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "7656219426:AAF5748P2BNbK250vSii7XE9VNxSD_ThDq0",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://SHASHANK:STRANGER@shashank.uj7lold.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://musicbotxd:musicbotxd@cluster0.6thyk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
@@ -39,7 +39,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @STRINGSEASO_NBOT on Telegram.",
-        "value": "",
+        "value": "BAFUizgANaTD0qaODMNn46TsezuOdFjudSxwp8MCAMPxRrxqqSpJklKrNfYKT-_HHHijM79YC2lghRWgHCLtLvUMiR40bodGh7OE2BuvxjqgJImV4dwi92UGQ2aS1J3KHXBmp2n73ScxxdM-aRVeXXd4xf4EOqPZlNfOIQ9-xH-dZw0qcrQF-FFU8npo0f5TJ-GPYaY6EcOfpstoi2cilTRyngoAMvl-ziMMw42j8XkOUia5d7CREvgeZvmF411WEKvuuQ0wyVIkL4CFBmPeb51nd9A-_tegVBcgN-CT95AOjB4uyFGlZvmfhyfHLfXd59ZRFAPWNIXiCPp2ceSD2-f1q2tVUAAAAAGXpY4PAA",
         "required": true
       },
       "HEROKU_API_KEY": {
