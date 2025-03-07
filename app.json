@@ -15,32 +15,32 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "22317880",
+        "value": "26399631",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "5e341628f7176989bcffb2b8fc22445f",
+        "value": "16b94384632645b5c23ee23ac1b0c8af",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "7656219426:AAF5748P2BNbK250vSii7XE9VNxSD_ThDq0",
+        "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://musicbotxd:musicbotxd@cluster0.6thyk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "value": "mongodb+srv://musicbot:<db_password>@cluster0.5ft2p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6018803920",
+        "value": "7489925840",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @STRINGSEASO_NBOT on Telegram.",
-        "value": "BAFUizgANaTD0qaODMNn46TsezuOdFjudSxwp8MCAMPxRrxqqSpJklKrNfYKT-_HHHijM79YC2lghRWgHCLtLvUMiR40bodGh7OE2BuvxjqgJImV4dwi92UGQ2aS1J3KHXBmp2n73ScxxdM-aRVeXXd4xf4EOqPZlNfOIQ9-xH-dZw0qcrQF-FFU8npo0f5TJ-GPYaY6EcOfpstoi2cilTRyngoAMvl-ziMMw42j8XkOUia5d7CREvgeZvmF411WEKvuuQ0wyVIkL4CFBmPeb51nd9A-_tegVBcgN-CT95AOjB4uyFGlZvmfhyfHLfXd59ZRFAPWNIXiCPp2ceSD2-f1q2tVUAAAAAGXpY4PAA",
+        "value": "BQGS048AsOTFQOU14n_Y0P7oKsqHWg9C9SfTcP3XUY_Elhs5wYrA4v9ZhUavason0ayLYKQzWc_LvrWxTaLGMommt3F7-4NseBpXO_I3_zwWV5hS4E_YmM38P_elUmo2UQcWUFj3IWe4T8RWdtRfCcyprwD8G0sfDbrG9EoVZRn1Orz7BqLY8EcGEA31vQvmMLV9gNwzL_q4Rtt2Chyi3fNDM9NKJj0yjd3APCxoawuJLcp2GEC29XpPkWbKAFbK-EVEeHDfu-Ic-8Tb9JzQ1cDBXSYHDM-YvxGjMXA0lQBHBe4NBUuoeqJpeWnsJGAkEt43_oLTId4XIke-uuz6jH4o2NhyIQAAAAFa66lEAA",
         "required": true
       },
       "HEROKU_API_KEY": {
