@@ -1,114 +1,75 @@
 
+
 {
-  "name": "ᴀɴɪᴇ x ᴇɪᴄᴀ ᴍᴜꜱɪᴄ ʙᴏᴛ",
-  "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-  "logo": "https://telegra.ph/file/b37803a767b15e939513d.png",
-  "keywords": [
-  "python3",
-  "telegram",
-  "bot",
-  "ᴀɴɪᴇ",
-  "MusicBot",
-  "telegram-bot",
-  "pyrogram"
-  ],
-  "env": {
-    "API_ID": {
-      "description": "Get this value from https://my.telegram.org",
-      "value": "22317880",
-      "required": true
-    },
-    "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
-      "value": "5e341628f7176989bcffb2b8fc22445f",
-      "required": true
-    },
-    "BOT_TOKEN": {
-      "description": "A Bot's token from Botfather",
-      "value": "",
-      "required": true
-    },
-    "MONGO_DB_URI": {
-      "description": "Get a mongodb url from https://cloud.mongodb.com.",
-      "value": "mongodb+srv://musicbotxd:musicbotxd@cluster0.6thyk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
-      "required": true
-    },
-    "OWNER_ID": {
-      "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-      "value": "6018803920",
-      "required": true
-    },
-   "SUPPORT_CHANNEL": {
-      "description": "Add channel link",
-      "value": "https://t.me/MBT_UPDATES",
-      "required": true
-    },
-      "SUPPORT_CHAT": {
-      "description": "Add Chat group & support group Link",
-      "value": "https://t.me/+EK-lvu4shmBkNmZl",
-      "required": true
-    },
-    "STRING_SESSION": {
-      "description": "A Pyrogram String Session from @Sessoin_String_gen_BOT on Telegram.",
-      "value": "BAFUizgANaTD0qaODMNn46TsezuOdFjudSxwp8MCAMPxRrxqqSpJklKrNfYKT-_HHHijM79YC2lghRWgHCLtLvUMiR40bodGh7OE2BuvxjqgJImV4dwi92UGQ2aS1J3KHXBmp2n73ScxxdM-aRVeXXd4xf4EOqPZlNfOIQ9-xH-dZw0qcrQF-FFU8npo0f5TJ-GPYaY6EcOfpstoi2cilTRyngoAMvl-ziMMw42j8XkOUia5d7CREvgeZvmF411WEKvuuQ0wyVIkL4CFBmPeb51nd9A-_tegVBcgN-CT95AOjB4uyFGlZvmfhyfHLfXd59ZRFAPWNIXiCPp2ceSD2-f1q2tVUAAAAAGXpY4PAA",
-      "required": true
-    },
-    "HEROKU_API_KEY": {
-      "description": "Your Heroku account's API key",
-      "value": "HRKU-244ce902-f5e3-4c52-94d6-b5c4bb4ab7e5",
-      "required": false
-    },
-    "HEROKU_APP_NAME": {
-      "description": "Your heroku app name",
-      "value": "",
-      "required": false
-    },
-    "UPSTREAM_REPO": {
-      "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/SONGSONG220/AnieXEricaMusic",
-      "required": false
-    },
-    "UPSTREAM_BRANCH": {
-      "description": "Upstream Repo's Branch Name",
-      "value": "main",
-      "required": false
-    },
-    "AUTO_LEAVING_ASSISTANT": {
-      "description": "Time after which you're assistant account will leave chats automatically. u want off use False To None Leave auto assis from groups",
-      "value": "True",
-      "required": true 
-    },
-    "START_IMG_URL": {
-      "description": "Your Bot Start Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-      "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
-      "required": false
-    },
-    "PING_IMG_URL": {
-      "description": "Your Bot Ping Check Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-      "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
-      "required": false
-    },
-    "STATS_IMG_URL": {
-      "description": "Your Bot Stats Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-      "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
-      "required": false
-    },
-    "LOGGER_ID": {
-      "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-      "value": "-1002392274240",
-      "required": true
-    }
-  },
-  "buildpacks": [
-        {
-            "url": "heroku/python"
-        },
-        {
-            "url": "heroku/nodejs"
-        },
-        {
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
-        }
+    "name": "Suzune Music",
+    "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
+    "logo": "https://telegra.ph/file/b61227af05544deb76a34.jpg",
+    "keywords": [
+    "python3",
+    "telegram",
+    "bot",
+    "SHUKLA",
+    "MusicBot",
+    "telegram-bot",
+    "pyrogram"
     ],
-    "stack": "container"
-}
+    "env": {
+      "API_ID": {
+        "description": "Get this value from https://my.telegram.org",
+        "value": "26399631",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "Get this value from https://my.telegram.org",
+        "value": "16b94384632645b5c23ee23ac1b0c8af",
+        "required": true
+      },
+      "BOT_TOKEN": {
+        "description": "A Bot's token from Botfather",
+        "value": "",
+        "required": true
+      },
+      "MONGO_DB_URI": {
+        "description": "Get a mongodb url from https://cloud.mongodb.com.",
+        "value": "mongodb+srv://musicbot:<db_password>@cluster0.5ft2p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "required": true
+      },
+      "OWNER_ID": {
+        "description": "The user id of user whom you would like to add as OWNER.",
+        "value": "7489925840",
+        "required": true
+      },
+      "STRING_SESSION": {
+        "description": "A Pyrogram v2 String Session from @STRINGSEASO_NBOT on Telegram.",
+        "value": "BQGS048AsOTFQOU14n_Y0P7oKsqHWg9C9SfTcP3XUY_Elhs5wYrA4v9ZhUavason0ayLYKQzWc_LvrWxTaLGMommt3F7-4NseBpXO_I3_zwWV5hS4E_YmM38P_elUmo2UQcWUFj3IWe4T8RWdtRfCcyprwD8G0sfDbrG9EoVZRn1Orz7BqLY8EcGEA31vQvmMLV9gNwzL_q4Rtt2Chyi3fNDM9NKJj0yjd3APCxoawuJLcp2GEC29XpPkWbKAFbK-EVEeHDfu-Ic-8Tb9JzQ1cDBXSYHDM-YvxGjMXA0lQBHBe4NBUuoeqJpeWnsJGAkEt43_oLTId4XIke-uuz6jH4o2NhyIQAAAAFa66lEAA",
+        "required": true
+      },
+      "HEROKU_API_KEY": {
+        "description": "Your Heroku account's API key",
+        "value": "",
+        "required": false
+      },
+      "HEROKU_APP_NAME": {
+        "description": "Your heroku app name",
+        "value": "",
+        "required": false
+      },
+      "LOGGER_ID": {
+        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
+        "value": "-1002392274240",
+        "required": true
+      }
+    },
+    "buildpacks": [
+          {
+              "url": "heroku/python"
+          },
+          {
+              "url": "heroku/nodejs"
+          },
+          {
+              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+          }
+      ],
+      "stack": "container"
+  }
